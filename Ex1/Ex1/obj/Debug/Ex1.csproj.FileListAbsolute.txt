@@ -1,0 +1,7 @@
+C:\Users\torta\source\repos\Ex1\Ex1\bin\Debug\Ex1.exe.config
+C:\Users\torta\source\repos\Ex1\Ex1\bin\Debug\Ex1.exe
+C:\Users\torta\source\repos\Ex1\Ex1\bin\Debug\Ex1.pdb
+C:\Users\torta\source\repos\Ex1\Ex1\obj\Debug\Ex1.csproj.AssemblyReference.cache
+C:\Users\torta\source\repos\Ex1\Ex1\obj\Debug\Ex1.csproj.CoreCompileInputs.cache
+C:\Users\torta\source\repos\Ex1\Ex1\obj\Debug\Ex1.exe
+C:\Users\torta\source\repos\Ex1\Ex1\obj\Debug\Ex1.pdb
