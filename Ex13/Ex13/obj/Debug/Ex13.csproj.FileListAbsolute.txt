@@ -1,0 +1,7 @@
+C:\Users\torta\source\repos\Ex13\Ex13\bin\Debug\Ex13.exe.config
+C:\Users\torta\source\repos\Ex13\Ex13\bin\Debug\Ex13.exe
+C:\Users\torta\source\repos\Ex13\Ex13\bin\Debug\Ex13.pdb
+C:\Users\torta\source\repos\Ex13\Ex13\obj\Debug\Ex13.csproj.AssemblyReference.cache
+C:\Users\torta\source\repos\Ex13\Ex13\obj\Debug\Ex13.csproj.CoreCompileInputs.cache
+C:\Users\torta\source\repos\Ex13\Ex13\obj\Debug\Ex13.exe
+C:\Users\torta\source\repos\Ex13\Ex13\obj\Debug\Ex13.pdb
