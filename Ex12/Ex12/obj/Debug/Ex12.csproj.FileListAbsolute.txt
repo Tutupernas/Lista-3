@@ -1,0 +1,7 @@
+C:\Users\torta\source\repos\Ex12\Ex12\bin\Debug\Ex12.exe.config
+C:\Users\torta\source\repos\Ex12\Ex12\bin\Debug\Ex12.exe
+C:\Users\torta\source\repos\Ex12\Ex12\bin\Debug\Ex12.pdb
+C:\Users\torta\source\repos\Ex12\Ex12\obj\Debug\Ex12.csproj.AssemblyReference.cache
+C:\Users\torta\source\repos\Ex12\Ex12\obj\Debug\Ex12.csproj.CoreCompileInputs.cache
+C:\Users\torta\source\repos\Ex12\Ex12\obj\Debug\Ex12.exe
+C:\Users\torta\source\repos\Ex12\Ex12\obj\Debug\Ex12.pdb

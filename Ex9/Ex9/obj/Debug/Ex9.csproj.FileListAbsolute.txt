@@ -1,0 +1,7 @@
+C:\Users\torta\source\repos\Ex9\Ex9\bin\Debug\Ex9.exe.config
+C:\Users\torta\source\repos\Ex9\Ex9\bin\Debug\Ex9.exe
+C:\Users\torta\source\repos\Ex9\Ex9\bin\Debug\Ex9.pdb
+C:\Users\torta\source\repos\Ex9\Ex9\obj\Debug\Ex9.csproj.AssemblyReference.cache
+C:\Users\torta\source\repos\Ex9\Ex9\obj\Debug\Ex9.csproj.CoreCompileInputs.cache
+C:\Users\torta\source\repos\Ex9\Ex9\obj\Debug\Ex9.exe
+C:\Users\torta\source\repos\Ex9\Ex9\obj\Debug\Ex9.pdb
